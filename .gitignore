@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+
+# Database
+*.sqlite3
+
+# Django
+/static/
+/media/
+
+# Docker
+*.log
